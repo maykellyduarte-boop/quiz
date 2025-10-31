@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(131, 157, 212, 1);
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  img{width: 60%;}
+  
+  h1{color: rgb(19, 1, 1);
+  font-size: 50px;
+  }
+  
+  p{font-size: 30px;
+  color: rgba(32, 38, 116, 1);
+  }
+  
+  button{
+    font-size: 30px;
+    margin: 10px;
+    background-color: rgba(180, 179, 219, 1);
+    color: rgb(15, 14, 14);
+    padding: 9px;
+    width: 200px;
+    font-weight: bold;
+    border-radius: 50px;
+  }
